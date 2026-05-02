@@ -13,6 +13,7 @@ Predict whether a customer will convert based on campaign data
 Identify important features affecting conversion
 Improve marketing efficiency and ROI
 Provide actionable insights for targeting the right audience
+
 📁 Dataset
 
 Dataset Name: Marketing Campaign Data
@@ -27,6 +28,7 @@ Time spent on website
 Previous interactions
 Click-through rate (CTR)
 Conversion (Target Variable: 0 or 1)
+
 ⚙️ Machine Learning Model
 Logistic Regression
 
@@ -36,11 +38,13 @@ It is simple and interpretable
 Works well for binary classification
 Provides probability outputs
 Helps understand feature importance
+
 🛠️ Tech Stack
 Python 🐍
 Pandas & NumPy
 Matplotlib & Seaborn
 Scikit-learn
+
 🔄 Workflow
 Data Preprocessing
 Handle missing values
@@ -61,18 +65,22 @@ ROC-AUC Score
 Insights & Optimization
 Identify high-impact features
 Suggest marketing improvements
+
 📈 Results
 Achieved strong classification performance
 Identified key drivers of conversion
 Provided insights to improve campaign targeting
+
 📊 Sample Output
 Conversion probability prediction
 Feature importance analysis
 Model performance metrics
+
 🧠 Key Insights
 Certain channels perform better for conversions
 User engagement (time spent, clicks) is critical
 Targeted campaigns outperform generic ones
+
 💡 Future Improvements
 Use advanced models (Random Forest, XGBoost)
 Hyperparameter tuning
