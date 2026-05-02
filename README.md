@@ -78,21 +78,3 @@ Use advanced models (Random Forest, XGBoost)
 Hyperparameter tuning
 Deploy as a web app (Flask/Streamlit)
 Real-time prediction system
-▶️ How to Run
-# Clone the repository
-git clone https://github.com/your-username/sales-conversion-optimization.git
-
-# Navigate to project folder
-cd sales-conversion-optimization
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook/script
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-📜 License
-
-This project is open-source and available under the MIT License.
